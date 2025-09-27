@@ -606,7 +606,7 @@ jobs:
           cd "$CONFIG"
 
 
-          fixed_version="5.10.209-HzzMonet"
+          fixed_version="-HzzMonet✨"
           echo "使用固定版本号: $fixed_version"
 
 
