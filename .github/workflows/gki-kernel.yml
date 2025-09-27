@@ -606,7 +606,7 @@ jobs:
           cd "$CONFIG"
 
 
-          fixed_version="-Usagi🐰"
+          fixed_version="-minhchinh"
           echo "使用固定版本号: $fixed_version"
 
 
